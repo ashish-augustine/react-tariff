@@ -38,5 +38,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Mobile
 
-![Screenshot 2023-03-28 at 1 43 33 AM](https://user-images.githubusercontent.com/2153396/228091307-270429ce-8c15-4be5-b023-36455dd729b5.png)
-
+![Screenshot 2023-03-28 at 1 49 46 AM](https://user-images.githubusercontent.com/2153396/228091858-186a9659-89ad-4c10-a919-b1eeca21f2ad.png)
