@@ -4,7 +4,7 @@ import ArrowDownwardIcon from "@mui/icons-material/ArrowDownward";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
 import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
 import Button from "@mui/material/Button";
-import "./index.scss"; // index should be imported first
+import "./index.scss";
 import { useMediaQuery } from "react-responsive";
 
 function PlanCard(props: any) {
