@@ -16,7 +16,7 @@ To run the json-server
 
 In the project directory, you can run:
 
-### `npm install && npm start`
+### `npm start`
 
 
 
