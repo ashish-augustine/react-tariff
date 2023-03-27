@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "tariffName": "Tarif Name 1",
+      "downloadSpeed": 12,
+      "uploadSpeed": 6,
+      "benefits": ["Tariff Benefit 1", "Tariff Benefit 2", "Tariff Benefit 3"],
+      "price": 123.45
+    },
+    {
+      "id": 2,
+      "tariffName": "Tarif Name 2",
+      "downloadSpeed": 15,
+      "uploadSpeed": 9,
+      "benefits": ["Tariff Benefit 1", "Tariff Benefit 2", "Tariff Benefit 3"],
+      "price": 126.48
+    },
+    {
+      "id": 3,
+      "tariffName": "Tarif Name 3",
+      "downloadSpeed": 18,
+      "uploadSpeed": 12,
+      "benefits": ["Tariff Benefit 1", "Tariff Benefit 2", "Tariff Benefit 3"],
+      "price": 129.51
+    },
+    {
+      "id": 4,
+      "tariffName": "Tarif Name 4",
+      "downloadSpeed": 21,
+      "uploadSpeed": 15,
+      "benefits": ["Tariff Benefit 1", "Tariff Benefit 2", "Tariff Benefit 3"],
+      "price": 132.54
+    },
+    {
+      "id": 5,
+      "tariffName": "Tarif Name 5",
+      "downloadSpeed": 24,
+      "uploadSpeed": 18,
+      "benefits": ["Tariff Benefit 1", "Tariff Benefit 2", "Tariff Benefit 3"],
+      "price": 135.57
+    }
+  ]
+}

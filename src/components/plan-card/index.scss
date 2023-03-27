@@ -1,0 +1,150 @@
+/* For styles that apply to all screens */
+@import url("https://fonts.googleapis.com/css2?family=Overlock&display=swap");
+
+.sort {
+  display: flex;
+  flex-direction: row;
+  margin-left: 8px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  
+  .sort-btn{
+    border-color: #a45c40 !important; 
+    background-color: #a45c40;
+  }
+
+  .sort-btn:hover{
+    border-color: #a45c40 !important; 
+    background-color: #a45c40;
+  }
+}
+
+.card {
+  background-image: linear-gradient(
+    90deg,
+    #c38370 0%,
+    #e4b7a0 35%,
+    #f6eee0 100%
+  );
+  margin: 8px;
+  font-family: "Overlock", cursive;
+  min-width: 360px;
+
+  .content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100px;
+
+    .id-product{
+    margin-left: 1%;
+    }
+
+    .tariff-name {
+      margin-left: 2%;
+    }
+
+    .tariff-details {
+      display: flex;
+      flex-direction: column;
+      margin-left: 7%;
+      align-items: center;
+      justify-content: center;
+      align-self: center;
+      flex: 1;
+
+      .tariff-detail {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: 10px;
+      }
+
+      .detail-name {
+        font-size: 12px;
+      }
+
+      .detail-field {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+
+        .field-text {
+          font-size: 12px;
+          padding: 0 20px 0 5px;
+          border-radius: 0 50px 50px 0;
+          border: 2px solid #a45c40;
+          height: 20px;
+          text-align: center;
+        }
+
+        .field-icon {
+          border: 2px solid #a45c40;
+          border-right: none;
+          padding: 0 20px 0 20px;
+          font-size: 16px;
+          height: 20px;
+          color: #a45c40;
+        }
+      }
+    }
+
+    .tariff-benefits {
+      flex: 1;
+      align-self: center;
+
+      margin-right: 10px;
+      font-size: 14px;
+      font-weight: 500;
+      text-align: start;
+    }
+
+    .tariff-btn {
+      color: #a45c40;
+      border: 2px solid #a45c40;
+      padding: 0 15px 0 0;
+      margin-right: 8px;
+    }
+
+    .tariff-text {
+      padding: 1px 0 1px 20px;
+      margin: 0 8px 0 0;
+    }
+
+    .price-text {
+      margin-bottom: 5px;
+      margin-right: 0;
+      padding-right: 0;
+    }
+
+    .price {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    .content {
+      .price {
+        align-self: stretch;
+        flex-direction: row;
+        align-items: center;
+      }
+
+      .price-text{
+        margin-right: 10px;
+      }
+      .tariff-btn {
+        // align-self: stretch;
+        height: 80%;
+        width: 10px;
+        margin-right: 10px;
+        padding: 0;
+        min-width: 30px;
+        color: #a45c40;
+      }
+    }
+  }
+}
