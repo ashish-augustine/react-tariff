@@ -1,4 +1,4 @@
-# Electricity Tariff - React JS /  Typescript
+# Electricity Tariff - React  /  Typescript
 
 
 # Screenshots
