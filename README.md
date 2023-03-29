@@ -1,4 +1,4 @@
-# Tariff - React  /  Typescript
+# Tariff Provider - React  /  Typescript
 
 
 # Screenshots
