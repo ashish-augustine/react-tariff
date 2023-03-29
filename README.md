@@ -25,12 +25,11 @@
 
 
 To install json-server to run for fake API
-### `npm install -g json-server` <br/>\
+### `npm install -g json-server`  
 
 
 To run the json-server
-### `json-server --watch db.json -p 4000` <br/>\
-
+### `json-server --watch db.json -p 4000` 
 
 
 In the project directory, you can run:
