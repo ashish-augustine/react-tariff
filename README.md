@@ -25,7 +25,7 @@
 
 
 1. To install json-server to run for fake API
-&emsp; ### `npm install -g json-server`  
+  `npm install -g json-server`  
 
 
 2. To run the json-server
