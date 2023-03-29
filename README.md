@@ -25,15 +25,15 @@
 
 
 1. To install json-server to run for fake API
-  `npm install -g json-server`  
+  ### `npm install -g json-server`  
 
 
 2. To run the json-server
-&emsp; ### `json-server --watch db.json -p 4000` 
+  ### `json-server --watch db.json -p 4000` 
 
 
 3. In the project directory, you can run:
-&emsp;  ### `npm start`
+   ### `npm start`
 
 
 
