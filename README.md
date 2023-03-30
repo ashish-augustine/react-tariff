@@ -32,7 +32,7 @@
   ### `json-server --watch db.json -p 4000` 
 
 
-  In the project directory, you can run:
+  In new terminal, in the project directory, you can run:
    ### `npm install && npm start`
 
 
