@@ -23,7 +23,10 @@
 
 ## Available Scripts
 
-
+  To install node modules
+  ### `npm install`
+  
+  
   To install json-server to run for fake API
   ### `npm install -g json-server`  
 
