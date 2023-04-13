@@ -26,7 +26,7 @@
  
   
   
-  To install json-server to run for fake API
+  To install json-server to run fake API
   ### `npm install -g json-server`  
 
 
