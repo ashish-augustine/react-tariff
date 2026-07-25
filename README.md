@@ -2,7 +2,7 @@
 
 A responsive web application built with React and TypeScript that displays a list of internet tariff plans. It features a clean, adaptive user interface and sorting functionalities, powered by a mock REST API.
 
----
+---  
 
 ## 🚀 Features
 
