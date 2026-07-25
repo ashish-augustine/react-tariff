@@ -71,5 +71,5 @@ npm install && npm start
 This runs the app in development mode.
 
  
-Open ```bash http://localhost:3000 ``` to view it in your browser. The page will reload when you make changes.
+Open ``` http://localhost:3000 ``` to view it in your browser. The page will reload when you make changes.
 
