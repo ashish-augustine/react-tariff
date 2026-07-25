@@ -1,5 +1,28 @@
-# Tariff Provider - React  /  Typescript
- 
+# Tariff Provider - React / TypeScript
+
+A responsive web application built with React and TypeScript that displays a list of internet tariff plans. It features a clean, adaptive user interface and sorting functionalities, powered by a mock REST API.
+
+---
+
+## 🚀 Features
+
+*   **Responsive Design:** Fully optimized layouts for Desktop, Tablet, and Mobile viewing.
+*   **Tariff Display:** Clearly presents download/upload speeds, tariff benefits, and pricing for each plan.
+*   **Sorting Capability:** Users can easily sort the tariff list (e.g., by Name Z-A) to find specific plans.
+*   **Mock Backend:** Utilizes `json-server` to simulate a real-world API experience for fetching tariff data.
+
+---
+
+## 🛠️ Built With
+
+*   **Frontend:** React, TypeScript
+*   **Backend (Mock):** `json-server`
+*   **Package Manager:** npm
+
+
+
+
+
 
 # Screenshots
 
@@ -19,26 +42,28 @@
 
 
 
+ ## 💻 Getting Started
 
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-## Available Scripts
+### Prerequisites
 
- 
-  
-  
-  To install json-server to run fake API
-  ### `npm install -g json-server`  
+Make sure you have Node.js and npm installed on your machine.
 
+### Available Scripts
 
- To run the json-server
-  ### `json-server --watch db.json -p 4000` 
+To install `json-server` globally to run the fake API:
 
+```bash
+npm install -g json-server
+```
 
-  In new terminal, in the project directory, you can run:
-   ### `npm install && npm start`
+To run the json-server:
+json-server --watch db.json -p 4000
 
+In a new terminal, in the project directory, you can run:
+npm install && npm start
 
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This runs the app in development mode.
+Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.
 
