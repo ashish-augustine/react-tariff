@@ -59,11 +59,17 @@ npm install -g json-server
 ```
 
 To run the json-server:
+```bash
 json-server --watch db.json -p 4000
+```
 
+```bash
 In a new terminal, in the project directory, you can run:
 npm install && npm start
+```
 
 This runs the app in development mode.
-Open http://localhost:3000 to view it in your browser. The page will reload when you make changes.
+
+ 
+Open ```bash http://localhost:3000 ``` to view it in your browser. The page will reload when you make changes.
 
